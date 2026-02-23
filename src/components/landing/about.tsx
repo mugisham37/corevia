@@ -1,6 +1,6 @@
 import React from 'react'
 
-const about = () => {
+const About = () => {
     return (
         <section className="section_about">
             <div className="padding-section-medium"></div>
@@ -61,4 +61,4 @@ const about = () => {
     )
 }
 
-export default about
+export default About

@@ -1,6 +1,6 @@
 import React from 'react'
 
-const cta = () => {
+const Cta = () => {
     return (
         <section className="section_cta">
             <div className="padding-section-medium"></div>
@@ -62,4 +62,4 @@ const cta = () => {
     )
 }
 
-export default cta
+export default Cta

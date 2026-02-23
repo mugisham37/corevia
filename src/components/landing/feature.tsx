@@ -1,6 +1,6 @@
 import React from 'react'
 
-const feature = () => {
+const Feature = () => {
     return (
         <section className="section_features">
             <div className="padding-section-medium"></div>
@@ -83,4 +83,4 @@ const feature = () => {
     )
 }
 
-export default feature
+export default Feature

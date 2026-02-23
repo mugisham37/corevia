@@ -1,6 +1,6 @@
 import React from 'react'
 
-const testimonial = () => {
+const Testimonial = () => {
     return (
         <section className="section_testimonials">
             <div className="padding-section-large"></div>
@@ -207,4 +207,4 @@ const testimonial = () => {
     )
 }
 
-export default testimonial
+export default Testimonial

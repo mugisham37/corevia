@@ -1,6 +1,6 @@
 import React from 'react'
 
-const core = () => {
+const Core = () => {
     return (
         <section className="section_core">
             <div className="padding-section-medium"></div>
@@ -93,4 +93,4 @@ const core = () => {
     )
 }
 
-export default core
+export default Core

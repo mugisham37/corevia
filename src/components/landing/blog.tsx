@@ -1,6 +1,6 @@
 import React from 'react'
 
-const blog = () => {
+const Blog = () => {
     return (
         <section data-wf--section-blog--variant="base" className="section_blog">
             <div className="padding-section-medium"></div>
@@ -106,4 +106,4 @@ const blog = () => {
     )
 }
 
-export default blog
+export default Blog
