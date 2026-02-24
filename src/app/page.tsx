@@ -7,7 +7,7 @@ import Core from '@/components/landing/core'
 import Pricing from '@/components/landing/pricing'
 import Testimonial from '@/components/landing/testimonial'
 import Blog from '@/components/landing/blog'
-import Cta from '@/components/landing/cta'
+import Cta from '@/components/cta'
 import Footer from '@/components/footer'
 
 const Page = () => {
