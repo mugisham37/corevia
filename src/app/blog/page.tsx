@@ -1,9 +1,8 @@
-import React from 'react'
 import Header from '@/components/blog/header'
 import Blog from '@/components/blog/blog'
 import Footer from '@/components/footer'
 
-const page = () => {
+export default function BlogPage() {
   return (
     <>
       <Header />
@@ -12,5 +11,3 @@ const page = () => {
     </>
   )
 }
-
-export default page

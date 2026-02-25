@@ -51,45 +51,25 @@ const Footer = () => {
                                 <div className="footer_links-layout">
                                     <div className="footer_links scroll-into-view"
                                         style={{opacity: 1, transform: "translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
-                                        <div className="text-xl">Pages</div><a href="/home/home-v1" aria-current="page"
-                                            className="footer_link w-inline-block w--current">
-                                            <div>Home V.1</div>
-                                        </a><a href="/home/home-v2" className="footer_link w-inline-block">
-                                            <div>Home V.2</div>
-                                        </a><a href="/home/home-v3" className="footer_link w-inline-block">
-                                            <div>Home V.3</div>
-                                        </a><a href="/about/about-v1" className="footer_link w-inline-block">
-                                            <div>About V.1</div>
-                                        </a><a href="/about/about-v2" className="footer_link w-inline-block">
-                                            <div>About V.2</div>
+                                        <div className="text-xl">Pages</div>
+                                        <a href="/" className="footer_link w-inline-block">
+                                            <div>Home</div>
                                         </a>
-                                    </div>
-                                    <div className="footer_links scroll-into-view"
-                                        style={{opacity: 1, transform: "translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
-                                        <div className="text-xl">Pages</div><a href="/about/about-v3"
-                                            className="footer_link w-inline-block">
-                                            <div>About V.3</div>
-                                        </a><a href="/features" className="footer_link w-inline-block">
+                                        <a href="/about" className="footer_link w-inline-block">
+                                            <div>About</div>
+                                        </a>
+                                        <a href="/features" className="footer_link w-inline-block">
                                             <div>Features</div>
-                                        </a><a href="/blog" className="footer_link w-inline-block">
-                                            <div>Blogs</div>
-                                        </a><a
-                                            href="https://corevia-temlis.webflow.io/blogs/financial-planning-for-entrepreneurs-a-success-blueprint"
-                                            className="footer_link w-inline-block">
-                                            <div>Internal Blogs</div>
-                                        </a><a href="/contact/contact-v1" className="footer_link w-inline-block">
-                                            <div>Contact V.1</div>
                                         </a>
                                     </div>
                                     <div className="footer_links scroll-into-view"
                                         style={{opacity: 1, transform: "translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
-                                        <div className="text-xl">Pages</div><a href="/contact/contact-v2"
-                                            className="footer_link w-inline-block">
-                                            <div>Contact V.2</div>
-                                        </a><a href="/contact/contact-v3" className="footer_link w-inline-block">
-                                            <div>Contact V.3</div>
-                                        </a><a href="/pricing" className="footer_link w-inline-block">
+                                        <div className="text-xl">Resources</div>
+                                        <a href="/pricing" className="footer_link w-inline-block">
                                             <div>Pricing</div>
+                                        </a>
+                                        <a href="/blog" className="footer_link w-inline-block">
+                                            <div>Blog</div>
                                         </a>
                                     </div>
                                 </div>
@@ -102,14 +82,14 @@ const Footer = () => {
                         </div>
                         <div className="footer_bottom">
                             <div className="text-color-subtle">© 2025 Temlis. All rights reserved.</div>
-                            <div className="footer_bottom-links"><a href="/template/changelog"
-                                    className="footer_bottom-link w-inline-block">
-                                    <div>Changelog</div>
-                                </a><a href="/template/licensing" className="footer_bottom-link w-inline-block">
-                                    <div>Licensing</div>
-                                </a><a href="/template/style-guide" className="footer_bottom-link w-inline-block">
-                                    <div>Style Guide</div>
-                                </a></div>
+                            <div className="footer_bottom-links">
+                                <a href="/about" className="footer_bottom-link w-inline-block">
+                                    <div>About</div>
+                                </a>
+                                <a href="/blog" className="footer_bottom-link w-inline-block">
+                                    <div>Blog</div>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
