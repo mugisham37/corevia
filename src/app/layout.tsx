@@ -5,23 +5,22 @@ import Script from "next/script";
 import Navbar from "../components/navbar";
 
 export const metadata: Metadata = {
-  title: "Corevia Home V1 - Webflow HTML website template",
-  description: "Corevia is a modern Webflow template. Customize it to match your brand and create a unique, professional experience in minutes.",
+  title: "Corevia - Financial Management & Consulting Platform",
+  description: "Empower your business with Corevia's scalable financial tools. Expert consulting services for budgeting, investment management, and digital transformation.",
   openGraph: {
-    title: "Corevia Home V1 - Webflow HTML website template",
-    description: "Corevia is a modern Webflow template. Customize it to match your brand and create a unique, professional experience in minutes.",
+    title: "Corevia - Financial Management & Consulting Platform",
+    description: "Empower your business with Corevia's scalable financial tools. Expert consulting services for budgeting, investment management, and digital transformation.",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Corevia Home V1 - Webflow HTML website template",
-    description: "Corevia is a modern Webflow template. Customize it to match your brand and create a unique, professional experience in minutes.",
+    title: "Corevia - Financial Management & Consulting Platform",
+    description: "Empower your business with Corevia's scalable financial tools. Expert consulting services for budgeting, investment management, and digital transformation.",
   },
   icons: {
     icon: "https://cdn.prod.website-files.com/665687d713145087b3ce1703/665a4535765980c07e93225b_Group%202942.png",
     apple: "https://cdn.prod.website-files.com/665687d713145087b3ce1703/665a45115482c06bb38d0091_Group%202940.png",
   },
-  generator: "Webflow",
 };
 
 export default function RootLayout({
