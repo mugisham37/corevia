@@ -26,7 +26,7 @@ const About = () => {
                             <div className="buttons-wrap scroll-into-view"
                                 style={{ opacity: 1, transform: "translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d" }}>
                                 <a data-wf--button--variant="base" data-w-id="155d177b-6ef7-24c3-3eb9-53fc06643d4d"
-                                    href="/about/about-v3" className="button_component w-inline-block"
+                                    href="/about" className="button_component w-inline-block"
                                     style={{ transform: "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d" }}>
                                     <div className="button-content">
                                         <div className="button-text"

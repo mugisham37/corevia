@@ -61,6 +61,9 @@ const Footer = () => {
                                         <a href="/features" className="footer_link w-inline-block">
                                             <div>Features</div>
                                         </a>
+                                        <a href="/contact" className="footer_link w-inline-block">
+                                            <div>Contact</div>
+                                        </a>
                                     </div>
                                     <div className="footer_links scroll-into-view"
                                         style={{opacity: 1, transform: "translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
@@ -88,6 +91,9 @@ const Footer = () => {
                                 </a>
                                 <a href="/blog" className="footer_bottom-link w-inline-block">
                                     <div>Blog</div>
+                                </a>
+                                <a href="/contact" className="footer_bottom-link w-inline-block">
+                                    <div>Contact</div>
                                 </a>
                             </div>
                         </div>

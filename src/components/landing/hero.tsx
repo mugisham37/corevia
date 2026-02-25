@@ -31,7 +31,7 @@ const Hero = () => {
                                 style={{opacity: 1, transform: 'translate3d(0px, 0%, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>
                                 <div data-wf--button-custom--variant="base" className="button_custom"><a
                                     data-w-id="4cd9630a-f927-a76d-5f8a-bc9dd1effe0f"
-                                    href="https://www.temlis.com/" className="button_custom w-inline-block">
+                                    href="/contact" className="button_custom w-inline-block">
                                     <div data-w-id="6e2001d6-96cd-cf11-44a1-ce24fef75195"
                                         className="button_icon is-hide"
                                         style={{transform: 'translate3d(0px, 0px, 0px) scale3d(0.1, 0.1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)', transformStyle: 'preserve-3d'}}>

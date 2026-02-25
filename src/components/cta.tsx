@@ -19,7 +19,7 @@ const Cta = () => {
                                 <div data-wf--button-custom--variant="secondary"
                                     className="button_custom w-variant-162d1cd2-5043-2159-e12f-85bbb417dc34"><a
                                         data-w-id="4cd9630a-f927-a76d-5f8a-bc9dd1effe0f"
-                                        href="https://www.temlis.com/"
+                                        href="/contact"
                                         className="button_custom w-variant-162d1cd2-5043-2159-e12f-85bbb417dc34 w-inline-block">
                                         <div data-w-id="6e2001d6-96cd-cf11-44a1-ce24fef75195"
                                             className="button_icon w-variant-162d1cd2-5043-2159-e12f-85bbb417dc34 is-hide"

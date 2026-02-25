@@ -19,12 +19,13 @@ const navbar = () => {
                                     <a href="/features" className="nav_links w-nav-link">Features</a>
                                     <a href="/pricing" className="nav_links w-nav-link">Pricing</a>
                                     <a href="/blog" className="nav_links w-nav-link">Blog</a>
+                                    <a href="/contact" className="nav_links w-nav-link">Contact</a>
                                 </div>
                             </nav>
                         </div>
                         <div className="nav_buttons-wrap">
                             <div className="login-wrap hide-mobile-landscape"><a data-wf--button--variant="secondary"
-                                data-w-id="155d177b-6ef7-24c3-3eb9-53fc06643d4d" href="https://www.temlis.com/"
+                                data-w-id="155d177b-6ef7-24c3-3eb9-53fc06643d4d" href="/contact"
                                 className="button_component w-variant-4054ea76-d9bc-6095-58ab-2d153e0e0fc3 w-inline-block"
                                 style={{transform: "translate3d(0px, 0px, 0px) scale3d(1, 1, 1) rotateX(0deg) rotateY(0deg) rotateZ(0deg) skew(0deg, 0deg)", transformStyle: "preserve-3d"}}>
                                 <div className="button-content">
